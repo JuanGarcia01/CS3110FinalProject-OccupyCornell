@@ -2,7 +2,6 @@
 
 Occupy Cornell
 
-![alt tag](https://i.gyazo.com/f59fd44e41ad9469221753baaa4d6f3e.png)
 
 Snigdha Kasi (sk2485),
 Katherine Bau (kb577),
@@ -26,3 +25,6 @@ make
 make play
 ```
 May the best player win!
+
+Gameplay:
+![alt tag](https://i.gyazo.com/f59fd44e41ad9469221753baaa4d6f3e.png)
