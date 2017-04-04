@@ -1,0 +1,29 @@
+(** This loads the compiled modules from this directory *)
+#require "yojson"
+#require "graphics"
+#require "camlimages"
+#require "camlimages.png"
+#require "camlimages.graphics"
+#require "str"
+#directory "_build"
+#load "territory.cmo"
+#load "player.cmo"
+#load "risk_map.cmo"
+#load "dice.cmo"
+#load "card.cmo"
+#load "deck.cmo"
+#load "ai.cmo"
+#load "risk_Gui.cmo"
+
+(** For convenience, we open a bunch of modules *)
+open Graphics
+open Territory
+open Player
+open Risk_map
+open Dice
+open Card
+open Deck
+open Ai
+open Str
+open Risk_Gui
+
